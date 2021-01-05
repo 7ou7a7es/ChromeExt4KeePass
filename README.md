@@ -1,6 +1,6 @@
 # ChromeExt4KeePass
 
-## Very Simple Chrome Extension to better KeePass Auto-Type usage
+## Very SIMPLE Chrome Extension to simplify KeePass Auto-Type recognition
 
 *Extension just change the tab title with the URL*
 

@@ -3,9 +3,11 @@
   "version": "1.0",
   "description": "Very simple change tab title with URL for KeePass Auto-Type",
   "permissions": ["tabs"],
-  "background": {
-    "scripts": ["change-title.js"],
-    "persistent": false
-  },
-  "manifest_version": 3
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["change-title.js"]
+    }
+  ],
+  "manifest_version": 2
 }

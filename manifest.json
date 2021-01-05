@@ -1,0 +1,6 @@
+{
+  "name": "ChromeExt4KeePass",
+  "version": "1.0",
+  "description": "Very simple change tab title with URL for KeePass Auto-Type",
+  "manifest_version": 3
+}

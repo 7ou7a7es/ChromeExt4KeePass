@@ -1,7 +1,10 @@
 {
   "name": "ChromeExt4KeePass",
   "version": "1.0",
-  "description": "Very simple change tab title with URL for KeePass Auto-Type",
+  "description": "Very simple change tab title with domain name for KeePass Auto-Type",
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
   "permissions": ["tabs"],
   "background": {
     "scripts": ["background.js"],

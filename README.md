@@ -21,7 +21,7 @@
 
 ## Upgrade KeePass Options
 
-1. Go to *Options... > Advanced > Auto-Type* menu
+1. Go to *Options... > Advanced > Auto-Type* menu  
 ![Screenshot](Readme/KeePassOptions.png "Piece of cake!")
 1. Select *Any entry matches if the host component of its URL is contained in the target window title*
 1. Unselect *Any entry matches if its title is contained in the target window title* if you want reduce false positive *(with this way of doing, you must to fill URL fields)*

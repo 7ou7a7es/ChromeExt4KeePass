@@ -26,3 +26,5 @@
 1. Select *Any entry matches if the host component of its URL is contained in the target window title*
 1. Unselect *Any entry matches if its title is contained in the target window title* if you want reduce false positive *(with this way of doing, you must to fill URL fields)*
 1. Edit the entries you want to use and fill their URL fields
+
+Icons made by <a href="https://www.flaticon.com/free-icon/url_1804486?related_item_id=1804486&term=url" title="DinosoftLabs">DinosoftLabs</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>

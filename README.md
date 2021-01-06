@@ -1,10 +1,12 @@
 # ChromeExt4KeePass
 
-## Very SIMPLE Chrome Extension to simplify KeePass Auto-Type recognition
+## Very SIMPLE Chrome Extension to
 
-*Extension just change the tab title with the URL*
+* Display in browser tab title the domain name *(and tls usage when active)*
+* Simplify KeePass Auto-Type recognition *(remember to fill KeePass URL field)*
+* Quickly see the domain name *(limit phishing)* 
 
-## [Intall Chrome Extension](https://www.google.com "Stolen in Chrome Developers Getting started documentation") (Working on Brave)
+## [Intall Chrome Extension in Developer Mode](https://www.google.com "Stolen in Chrome Developers Getting started documentation") (Working on Brave)
 
 1. Open [My GitHub Page](https://github.com/gujou/ChromeExt4KeePass "Yeah!")
 1. Click on "Download ZIP" under "Code"  

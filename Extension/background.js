@@ -12,9 +12,9 @@ chrome.runtime.onInstalled.addListener(function() {
 		}
 		
 		if (msg!=null && tab.title != msg){
-			window.alert("tilte : " + tab.title)
-			window.alert("msg : "+msg);
-			chrome.tabs.sendMessage(tabId, {command: msg});
+			console.log("title : " + tab.title)
+			console.log("msg : " + msg);
+			chrome.tabs.sendMessage(tabId, {command: msg, action: "title"});
 		}
 	});
 })
